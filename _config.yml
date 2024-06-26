@@ -4,7 +4,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tanmay's Webpage"
+title                    : ""
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 url                      : "https://tanmaygoyal258.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : "tanmaygoyal258/tanmaygoyal258.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -201,14 +201,14 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+   # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
