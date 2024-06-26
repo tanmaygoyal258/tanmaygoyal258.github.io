@@ -16,7 +16,7 @@ redirect_from:
 
 I am an incoming Research Fellow at [Microsoft Research India, Bengaluru](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), where I will be working with [Dr. Gaurav Sinha](https://sinhagaurav.github.io) in the fields of Reinforcement Learning and Bandits.
 
-Prior to this, I have graduated from the [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in) with a B.Tech in [Artificial Intelligence](https://ai.iith.ac.in).
+Prior to this, I have graduated from the [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in) with a [B.Tech in Artificial Intelligence](https://ai.iith.ac.in).
 
 You can contact me at: [firstname][lastname][258][AT][gmail.com]
 
