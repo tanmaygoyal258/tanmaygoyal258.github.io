@@ -4,7 +4,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Tanmay Goyal"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 url                      : "https://tanmaygoyal258.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : "tanmaygoyal258/tanmaygoyal258.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -23,31 +23,10 @@ analytics:
 author:
   name             : "Tanmay Goyal"
   avatar           : "/assets/images/tanmay.jpg"
-  email            : "tanmaygoyal258@gmail.com"
   linkedin         : "tanmay-goyal-57253a213"
   github           : "tanmaygoyal258" 
+  email            : "tanmaygoyal258@gmail.com"
 
-# Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
 
 
 # Reading Files
@@ -152,6 +131,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-titles-from-headings 
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -160,6 +140,11 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+
+titles_from_headings:
+  enabled:     false
+  strip_title: true
+  collections: true
 
 
 # Archives
@@ -208,6 +193,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      strip_title: true
       read_time: true
       comments: true
       share: true
