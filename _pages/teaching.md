@@ -7,6 +7,7 @@ share: false
 ---
 
 I have a genuine passion for teaching. I believe that no one can truly master a concept until they can explain its breadth and depth to another person.
+
 Fortunately, I have had the opportunity to be a teaching assistant and the head teaching assistant for several undergraduate and postgraduate courses at IIT Hyderabad. They are as follows:
 
 ## Head Teaching Assistant
@@ -20,7 +21,7 @@ Fortunately, I have had the opportunity to be a teaching assistant and the head 
 
 <li> <b>Deep Learning</b> (Spring '23) 
     <p> Course Instructor: <a href = "https://krmopuri.github.io"> Dr. Konda Reddy Mopuri </a> </p>
-    <p>In addition to the duties of a TA, I was allowed to conduct a series of tutorials for the students on OOPs in Python and introducing them to the basics of PyTorch. </p>
+    <p>In addition to the duties of a TA, I was allowed to conduct a series of tutorials for the students on OOPs in Python and introducing them to the basics of PyTorch with all teaching material made from scratch. </p>
 </li>
 
 </ul>
