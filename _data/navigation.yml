@@ -2,5 +2,7 @@
 main:
   - title: "Interests"
     url: /interests/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Curriculum Vitae"
     url: https://drive.google.com/file/d/1IYGcPoHecKAzrUY0K29euqcgs3bPRgkp/view?usp=sharing

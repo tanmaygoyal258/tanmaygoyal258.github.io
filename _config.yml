@@ -9,8 +9,11 @@ rtl                      : # true, false (default) # turns direction of the page
 url                      : "https://tanmaygoyal258.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : "tanmaygoyal258/tanmaygoyal258.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 
-
-
+# SEO Related
+google_site_verification : "xNmBwe1yOrVh-pt0iQ7V3AhbtIKodVT2tJfAnRvkPW0"
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
 # Analytics
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"

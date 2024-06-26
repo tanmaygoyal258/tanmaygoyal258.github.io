@@ -20,6 +20,6 @@ I usually like to work at the intersection of theory and application, with an em
 
 ## Other Interests
 
-If given a choice, I would go no further than playing cricket! I absolutely love playing cricket. I also enjoy watching and analyzing cricket matches. 
+If given a choice, I would go no further than playing cricket! I absolutely love playing cricket! I also enjoy watching and analyzing cricket matches. 
 
 Apart from that, I also enjoy playing table tennis, playing the guitar, indulging in public speaking activities and more! 
