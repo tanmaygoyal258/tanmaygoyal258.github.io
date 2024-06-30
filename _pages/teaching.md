@@ -6,7 +6,7 @@ comments: false
 share: false
 ---
 
-I have a genuine passion for teaching. I believe that no one can truly master a concept until they can explain its breadth and depth to another person.
+I have a genuine passion for teaching. I strongly believe that the only way to truly master a concept is to teach the ideas' breadth and depth to another person from scratch.
 
 Fortunately, I have had the opportunity to be a teaching assistant and the head teaching assistant for several undergraduate and postgraduate courses at IIT Hyderabad. They are as follows:
 

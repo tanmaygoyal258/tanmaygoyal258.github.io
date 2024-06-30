@@ -26,7 +26,7 @@ You can contact me at: [firstname][lastname][258][AT][gmail.com]
 
 <li> <b> Jun '24 </b>: Selected as a Research Fellow at Microsoft Research India, Bengaluru! </li>
 
-<li> <b> Apr '24 </b>: Honored to receive the Academic Excellence Award! </li>
+<li> <b> Apr '24 </b>: Honored to receive the Academic Excellence Award at the 16th Foundation Day Ceremony of IIT Hyderabad! </li>
 
 <li><b>Feb '24</b>: Selected to attend <a href="https://sites.google.com/view/researchweek24/home?authuser=0">Research Week with Google</a> at Bengaluru!</li>
 
