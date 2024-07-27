@@ -13,7 +13,9 @@ Fortunately, I have had the opportunity to be a teaching assistant for several u
 
 ## Teaching Assistant
 
-The duties of a Teaching Assistant included solving the doubts of the students and assisting the professors in carrying out the course smoothly from a grading perspective. For a few courses, I was entrusted with additional responsibilities, such as conducting tutorials, creating assignments, and even delivering lectures. The courses I have been a TA for are listed below:
+The duties of a Teaching Assistant included solving the doubts of the students and assisting the professors in carrying out the course smoothly from a grading perspective. For a few courses, I was entrusted with additional responsibilities, such as conducting tutorials, creating assignments, and even delivering lectures. 
+
+I have been a TA for the following courses:
 
 <ul>
 
