@@ -14,7 +14,7 @@ redirect_from:
 
 ## Welcome to my webpage!
 
-I am a Research Fellow (Pre-Doctoral Researcher) at [Microsoft Research India, Bengaluru](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/). I am part of the Goal-Driven AI team, where I work with [Dr. Gaurav Sinha](https://sinhagaurav.github.io) in the fields of Reinforcement Learning and Bandit Theory.
+I am a Research Fellow (Pre-Doctoral Researcher) at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/). I am part of the Goal-Driven AI team, where I work with [Dr. Gaurav Sinha](https://sinhagaurav.github.io) in the fields of Reinforcement Learning and Bandit Theory.
 
 Prior to this, I have graduated from the [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in) with a B.Tech in [Artificial Intelligence](https://ai.iith.ac.in).
 
