@@ -12,7 +12,7 @@ I usually like to work at the intersection of theory and application, with an em
 
 <ul>
 <li> Machine Learning and Optimization </li>
-<li> Reinforcement Learning, Bandits, and Online Learning </li>
+<li> Algorithms for Sequential Decision Making with a focus on Bandits, Online Learning, and Reinforcement Learning  </li>
 <li> Quantum Cryptology and Quantum Key Distribution </li>
 <li> Quantum Algorithms and Circuits, equivalent representations, and their theoretical guarantees </li>
 <li> Entangling (pun intended!) Quantum Science with AI and ML  </li>
