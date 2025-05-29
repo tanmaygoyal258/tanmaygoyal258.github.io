@@ -24,7 +24,7 @@ You can contact me at: [firstname][lastname][258][AT][gmail.com]
 
 <ul>
 
-<li> <b> May'25 </b>: Our paper, <b>Achieving Limited Adaptivity for Multinomial Logistic Bandits</b> has been accepted to RLC 2025. Congratulations to my
+<li> <b> May'25 </b>: Our paper, <b>Achieving Limited Adaptivity for Multinomial Logistic Bandits</b> has been accepted to RLC 2025.
 
 <li> <b> Apr '25 </b>: My first paper, <b> Efficient Algorithms for Logistic Slate Contextual Bandits with Bandit Feedback </b> has been accepted to UAI 2025. A huge shoutout to my mentor and co-author, Dr. Gaurav, for his constant support and encouragement.
 

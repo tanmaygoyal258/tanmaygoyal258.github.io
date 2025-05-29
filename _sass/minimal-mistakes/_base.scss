@@ -182,8 +182,9 @@ li ol {
   margin-top: 0.5em;
 }
 
-li p {
-  margin-bottom: 1.5px;
+ul li p
+ol li p {
+  margin-bottom: 0.5px;
 }
 
 /*
