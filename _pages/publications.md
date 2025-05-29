@@ -12,14 +12,14 @@ share: false
 
     <li> <b> Efficient Algorithms for Logistic Slate Contextual Bandits with Bandit Feedback </b> 
     <p> 
-    <cite> <b>Tanmay Goyal</b>, Gaurav Sinha </cite>
+    <b>Tanmay Goyal</b>, Gaurav Sinha
     <br> UAI 2025
     </p>
     </li>
     
     <li> <b> Achieving Limited Adaptivity for Multinomial Logistic Bandits </b> 
     <p> 
-    <cite> Sukruta Midigeshi, <b>Tanmay Goyal</b>, Gaurav Sinha </cite>
+    Sukruta Midigeshi, <b>Tanmay Goyal</b>, Gaurav Sinha
     <br> RLC 2025
     </p>
     </li>
