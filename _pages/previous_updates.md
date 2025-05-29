@@ -12,9 +12,9 @@ permalink: /prev_updates/
 ### 2025
 <ul>
 
-<li> <b> May'25 </b>: Our paper, <b>Achieving Limited Adaptivity for Multinomial Logistic Bandits</b> has been accepted to RLC 2025. </li>
+<li> <b> May '25 </b>: Our paper, <b>Achieving Limited Adaptivity for Multinomial Logistic Bandits</b>, has been accepted to <b>RLC 2025</b>. </li>
 
-<li> <b> Apr '25 </b>: My first paper, <b> Efficient Algorithms for Logistic Slate Contextual Bandits with Bandit Feedback </b> has been accepted to UAI 2025. A huge shoutout to my mentor and co-author, Dr. Gaurav, for his constant support and encouragement. </li>
+<li> <b> Apr '25 </b>: My first paper, <b>Efficient Algorithms for Logistic Slate Contextual Bandits with Bandit Feedback</b>, has been accepted to <b>UAI 2025</b>. A huge shoutout to my mentor and co-author, Dr. Gaurav, for his support and encouragement throughout! </li>
 
 </ul>
 
