@@ -24,6 +24,9 @@ You can contact me at: [firstname][lastname][258][AT][gmail.com]
 
 <ul>
 
+
+<li> <b> Apr '25 </b>:
+
 <li> <b> Aug '24 </b>: Joined Microsoft Research India as a Research Fellow! </li>
 
 <li> <b> Jun '24 </b>: Selected as a Research Fellow at Microsoft Research India, Bengaluru! </li>
