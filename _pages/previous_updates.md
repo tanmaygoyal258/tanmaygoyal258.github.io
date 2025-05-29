@@ -3,24 +3,11 @@ layout: single
 read_time: false
 comments: false
 share: false
-permalink: /
-redirect_from:
-  - /home
-  - /home.html
-  - /about/
-  - /about.html
+permalink: /prev_updates/
   
 ---
 
-## Welcome to my webpage!
-
-I am a Research Fellow (Pre-Doctoral Researcher) at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/). I am part of the Goal-Driven AI team, where I work with [Dr. Gaurav Sinha](https://sinhagaurav.github.io) in the fields of Reinforcement Learning and Bandit Theory.
-
-Prior to this, I have graduated from the [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in) with a B.Tech in [Artificial Intelligence](https://ai.iith.ac.in).
-
-You can contact me at: [firstname][lastname][258][AT][gmail.com]
-
-## Recent News
+## All Updates
 
 <ul>
 
@@ -36,6 +23,12 @@ You can contact me at: [firstname][lastname][258][AT][gmail.com]
 
 <li><b>Feb '24</b>: Selected to attend <a href="https://sites.google.com/view/researchweek24/home?authuser=0">Research Week with Google</a> at Bengaluru!</li>
 
-</ul>
+<li><b>Dec '23</b>: Represented IITH at the Inter-IIT Tech Meet at IIT Madras and the Inter-IIT Cultural Meet at IIT Kharagpur. </li>
 
-For a list of all updates, click <a href = "/prev_updates/"> here </a>
+<li><b>Aug '23</b>: Received a Pre-Placement Offer from AmeX to join as an Analyst! </li>
+
+<li> <b>Jul '23</b>: Successfully completed my internship at AmeX! </li>
+
+<li> <b>May '23</b>: Joined American Express as an Analyst Intern! </li>
+
+</ul>
