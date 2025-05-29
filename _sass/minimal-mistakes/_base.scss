@@ -65,7 +65,7 @@ small,
 }
 
 p {
-  margin-bottom: 0.8em;
+  margin-bottom: 1.3em;
 }
 
 u,
@@ -182,6 +182,10 @@ li ol {
   margin-top: 0.5em;
 }
 
+li p {
+  margin-bottom: 1.5px;
+}
+
 /*
    Media and embeds
    ========================================================================== */
@@ -291,6 +295,10 @@ nav {
 
   li {
     list-style: none;
+  }
+
+  li p {
+
   }
 
   a {
