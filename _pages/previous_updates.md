@@ -9,6 +9,7 @@ permalink: /prev_updates/
 
 ## Updates!
 
+### 2025
 <ul>
 
 <li> <b> May'25 </b>: Our paper, <b>Achieving Limited Adaptivity for Multinomial Logistic Bandits</b> has been accepted to RLC 2025. </li>

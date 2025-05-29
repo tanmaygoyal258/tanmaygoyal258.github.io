@@ -38,4 +38,4 @@ You can contact me at: [firstname][lastname][258][AT][gmail.com]
 
 </ul>
 
-All previous updates <a href = "/prev_updates/"> here </a>!
+All previous updates <a href = "/prev_updates/"> here</a>!
