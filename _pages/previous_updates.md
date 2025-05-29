@@ -7,13 +7,18 @@ permalink: /prev_updates/
   
 ---
 
-## All Updates
+## Updates!
 
 <ul>
 
 <li> <b> May'25 </b>: Our paper, <b>Achieving Limited Adaptivity for Multinomial Logistic Bandits</b> has been accepted to RLC 2025. </li>
 
 <li> <b> Apr '25 </b>: My first paper, <b> Efficient Algorithms for Logistic Slate Contextual Bandits with Bandit Feedback </b> has been accepted to UAI 2025. A huge shoutout to my mentor and co-author, Dr. Gaurav, for his constant support and encouragement. </li>
+
+</ul>
+
+### 2024
+<ul>
 
 <li> <b> Aug '24 </b>: Joined Microsoft Research India as a Research Fellow! </li>
 
@@ -22,6 +27,11 @@ permalink: /prev_updates/
 <li> <b> Apr '24 </b>: Honored to receive the Academic Excellence Award at the 16th Foundation Day Ceremony of IIT Hyderabad! </li>
 
 <li><b>Feb '24</b>: Selected to attend <a href="https://sites.google.com/view/researchweek24/home?authuser=0">Research Week with Google</a> at Bengaluru!</li>
+
+</ul>
+
+### 2023
+<ul>
 
 <li><b>Dec '23</b>: Represented IITH at the Inter-IIT Tech Meet at IIT Madras and the Inter-IIT Cultural Meet at IIT Kharagpur. </li>
 
