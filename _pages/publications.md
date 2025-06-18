@@ -14,7 +14,7 @@ share: false
     <p> 
     <b>Tanmay Goyal</b>, Gaurav Sinha
     <br> UAI 2025
-    <br> <a href="https://arxiv.org/abs/2506.13163"><b>arXiv</b></a> | <a href = "https://github.com/tanmaygoyal258/Logistic_Slate_Bandits.git"><b>Code</b>(Regret and Time Analysis)</a> | <a href = "https://github.com/tanmaygoyal258/Prompt_Optimization_Slate_Bandits.git"><b?Code</b>(Prompt Optimization)</a>
+    <br> <a href="https://arxiv.org/abs/2506.13163"><b>arXiv</b></a> | <a href = "https://github.com/tanmaygoyal258/Logistic_Slate_Bandits.git"><b>Code</b>(Regret and Time Analysis)</a> | <a href = "https://github.com/tanmaygoyal258/Prompt_Optimization_Slate_Bandits.git"><b>Code</b>(Prompt Optimization)</a>
     </p>
     </li>
     
