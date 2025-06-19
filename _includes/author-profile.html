@@ -79,43 +79,15 @@
           </a>
         </li>
       {% endif %}
-      
+
       {% if author.google_scholar %}
         <li>
-          <a href="{author.google_scholar}}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+          <a href="https://scholar.google.com/{{ author.google_scholar }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
             <i class="fa-brands fa-google-scholar" aria-hidden="true"></i><span class="label">Google Scholar</span>
           </a>
         </li>
       {% endif %}
-      
-      {% if author.medium %}
-        <li>
-          <a href="https://medium.com/@{{ author.medium }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
-            <i class="fab fa-fw fa-medium" aria-hidden="true"></i><span class="label">Medium</span>
-          </a>
-        </li>
-      {% endif %}
 
-      {% if author.slack %}
-        <li>
-          <a href="{{ author.slack }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
-            <i class="fab fa-fw fa-slack" aria-hidden="true"></i><span class="label">Slack</span>
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.discord %}
-        <li>
-          <a href="https://discordapp.com/users/{{ author.discord }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
-            <i class="fab fa-fw fa-discord" aria-hidden="true"></i><span class="label">Discord</span>
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.reddit %}
-        <li>
-          <a href="https://reddit.com/u/{{ author.reddit }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
-            <i class="fab fa-fw fa-reddit-square" aria-hidden="true"></i><span class="label">Red
       {% if author.linkedin %}
         <li>
           <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
@@ -163,8 +135,6 @@
           </a>
         </li>
       {% endif %}
-
-      
 
       {% if author.gitlab %}
         <li>
