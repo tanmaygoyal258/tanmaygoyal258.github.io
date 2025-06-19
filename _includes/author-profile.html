@@ -128,6 +128,14 @@
         </li>
       {% endif %}
 
+      {% if author.google_scholar %}
+        <li>
+          <a href="{author.google_scholar}}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+            <i class="fa-brands fa-google-scholar" aria-hidden="true"></i><span class="label">Google Scholar</span>
+          </a>
+        </li>
+      {% endif %}
+
       {% if author.gitlab %}
         <li>
           <a href="https://gitlab.com/{{ author.gitlab }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
