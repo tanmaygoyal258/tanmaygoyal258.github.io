@@ -22,6 +22,7 @@ share: false
     <p> 
     Sukruta Midigeshi, <b>Tanmay Goyal</b>, Gaurav Sinha
     <br> RLC 2025
+    <br> <a href="https://arxiv.org/abs/2508.03072"><b>arXiv</b></a>
     </p>
     </li>
 
