@@ -12,7 +12,7 @@ permalink: /prev_updates/
 ### 2025
 <ul>
 
-<li> <b> Sep '25 </b>: I will be visiting my alma matter, IIT Hyderabad, on the 3rd of September, to give a talk on my work at MSR India!
+<li> <b> Sep '25 </b>: I will be giving a talk at my alma matter IIT Hyderabad, on the 3rd of September. </li>
 
 <li> <b> May '25 </b>: Our paper, <b>Achieving Limited Adaptivity for Multinomial Logistic Bandits</b>, has been accepted to <b>RLC 2025</b>. </li>
 
