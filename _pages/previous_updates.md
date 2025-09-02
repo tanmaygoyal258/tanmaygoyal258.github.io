@@ -12,6 +12,8 @@ permalink: /prev_updates/
 ### 2025
 <ul>
 
+<li> <b> Sep '25 </b>: I will be visiting my alma matter, IIT Hyderabad, on the 3rd of September, to give a talk on my work at MSR India!
+
 <li> <b> May '25 </b>: Our paper, <b>Achieving Limited Adaptivity for Multinomial Logistic Bandits</b>, has been accepted to <b>RLC 2025</b>. </li>
 
 <li> <b> Apr '25 </b>: My first paper, <b>Efficient Algorithms for Logistic Slate Contextual Bandits with Bandit Feedback</b>, has been accepted to <b>UAI 2025</b>. A huge shoutout to my mentor and co-author, Dr. Gaurav, for his support and encouragement throughout! </li>
