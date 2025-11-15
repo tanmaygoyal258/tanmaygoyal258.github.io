@@ -22,7 +22,7 @@ share: false
     <p> 
     Sukruta Midigeshi, <b>Tanmay Goyal</b>, Gaurav Sinha
     <br> RLC 2025
-    <br> <a href="https://arxiv.org/abs/2508.03072"><b>arXiv</b></a> <b> | <b> <a href = "assets/slides/MNL_Bandits.pdf"><b>Slides</b></a> <b> | </b> <a href = "assets/posters/MNL_Bandits.pdf"><b>Poster</b></a>
+    <br> <b> <a href="https://arxiv.org/abs/2508.03072">arXiv</a> |  <a href = "assets/slides/MNL_Bandits.pdf">Slides</a>  |  <a href = "assets/posters/MNL_Bandits.pdf">Poster</a> </b>
     </p>
     </li>
 
