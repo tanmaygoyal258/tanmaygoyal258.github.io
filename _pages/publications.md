@@ -14,7 +14,7 @@ share: false
     <p> 
     <b>Tanmay Goyal</b>, Gaurav Sinha
     <br> UAI 2025
-    <br> <b><a href="https://arxiv.org/abs/2506.13163">arXiv</a> | <a href = "/assets_/posters/Slate_Bandits.pdf">Poster</a> </b>
+    <br> <b><a href="https://arxiv.org/abs/2506.13163">arXiv</a> | <a href = "/assets/posters/Slate_Bandits.pdf">Poster</a> </b>
     </p>
     </li>
     
