@@ -14,7 +14,7 @@ share: false
     <p> 
     <b>Tanmay Goyal</b>, Gaurav Sinha
     <br> UAI 2025
-    <br> <b><a href="https://arxiv.org/abs/2506.13163">arXiv</a> | <a href = "assets/posters/Slate_Bandits.pdf">Poster</a> </b>
+    <br> <b><a href="https://arxiv.org/abs/2506.13163">arXiv</a> | <a href = "_pages_/posters/Slate_Bandits.pdf">Poster</a> </b>
     </p>
     </li>
     
@@ -22,7 +22,7 @@ share: false
     <p> 
     Sukruta Midigeshi, <b>Tanmay Goyal</b>, Gaurav Sinha
     <br> RLC 2025
-    <br> <b> <a href="https://arxiv.org/abs/2508.03072">arXiv</a> |  <a href = "assets/slides/MNL_Bandits.pdf">Slides</a>  |  <a href = "assets/posters/MNL_Bandits.pdf">Poster</a> </b>
+    <br> <b> <a href="https://arxiv.org/abs/2508.03072">arXiv</a> |  <a href = "_pages/slides/MNL_Bandits.pdf">Slides</a>  |  <a href = "_pages/posters/MNL_Bandits.pdf">Poster</a> </b>
     </p>
     </li>
 
