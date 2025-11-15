@@ -20,6 +20,7 @@ Prior to this, I have graduated from the [Indian Institute of Technology, Hydera
 
 You can contact me at: [firstname][lastname][258][AT][gmail.com]
 
+
 ## Recent News
 
 <ul>

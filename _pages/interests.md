@@ -11,11 +11,10 @@ share: false
 I usually like to work at the intersection of theory and application, with an emphasis on the former. I am interested in the following areas:
 
 <ul>
-<li> Machine Learning and Optimization </li>
-<li> Algorithms for Sequential Decision Making with a focus on Bandits, Online Learning, and Reinforcement Learning  </li>
-<li> Quantum Cryptology and Quantum Key Distribution </li>
-<li> Quantum Algorithms and Circuits, equivalent representations, and their theoretical guarantees </li>
-<li> Entangling (pun intended!) Quantum Science with AI and ML  </li>
+<li> Sequential Decision Making with a focus on Bandits and Online Learning </li>
+<li> Theoretical foundations of Deep Learning and Reinforcement Learning </li>
+<li> Statistical Learning Theory </li>
+<li> Exploring extensions of Classical Learning to the Quantum Setting, including the use of quantum resources and designing algorithms for Quantum Learning</li>
 </ul>
 
 ## Other Interests
