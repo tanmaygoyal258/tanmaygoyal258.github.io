@@ -14,7 +14,7 @@ I usually like to work at the intersection of theory and application, with an em
 <li> Sequential Decision Making with a focus on Bandits and Online Learning </li>
 <li> Theoretical foundations of Deep Learning and Reinforcement Learning </li>
 <li> Statistical Learning Theory </li>
-<li> Exploring extensions of Classical Learning to the Quantum Setting, including the use of quantum resources and designing algorithms for Quantum Learning</li>
+<li> Entangling (pun intended!) Classical Learning with Quantum resources, and designing efficient algorithms for Quantum Learning</li>
 </ul>
 
 ## Other Interests
