@@ -174,16 +174,22 @@
   }
   .author__urls ul {
     display: flex;
-    justify-content: center;
-    gap: 12px;
+    justify-content: center;   // centers icons under the photo
+    align-items: center;
+    gap: 24px;                 // increase spacing between icons
     padding: 0;
+    margin: 0 auto;
+  }
+  
+  .author__urls-wrapper {
+    text-align: center;
   }
 
   .author__urls li {
     display: inline-flex;
   }
   .author__urls i {
-    font-size: 1.3rem;
+    font-size: 1.4rem;
   }
 }
 
