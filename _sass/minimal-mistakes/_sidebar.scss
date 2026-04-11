@@ -174,9 +174,10 @@
     padding: 0 !important;
     margin: 12px auto 0 auto !important;
     list-style: none;
-    border: none !important;
+    border: 0 !important;
     box-shadow: none !important;
     background: transparent !important;
+    margin-top: 0 !important;
   }
 
   .author__urls::before,
@@ -186,15 +187,7 @@
   .author__urls-wrapper .label {
     display: none !important;
   }
-  .author__urls ul {
-    display: flex;
-    justify-content: center;   // centers icons under the photo
-    align-items: center;
-    gap: 40px;                 // increase spacing between icons
-    padding: 0;
-    width:100%;
-    margin: 0 auto;
-  }
+    
   
   .author__urls-wrapper {
     display: block !important;
@@ -412,5 +405,14 @@
   @include breakpoint($x-large) {
     width: initial;
     margin-inline-end: initial;
+  }
+}
+
+@media (max-width: 600px) {
+  .author__urls {
+    border: none !important;
+    box-shadow: none !important;
+    background: transparent !important;
+    padding: 0 !important;
   }
 }
