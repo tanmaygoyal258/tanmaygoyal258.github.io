@@ -138,6 +138,14 @@
         </li>
       {% endif %}
 
+      {% if author.cv %}
+        <li>
+          <a href="{{author.cv}}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+            <i class="fa-regular fa-file-pdf" aria-hidden="true"></i><span class="label">CV</span>
+          </a>
+        </li>
+      {% endif %}
+
       {% if author.gitlab %}
         <li>
           <a href="https://gitlab.com/{{ author.gitlab }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
