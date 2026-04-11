@@ -147,14 +147,27 @@
 
 @media (max-width: 600px) {
   .author__avatar {
-    display: block;
-    margin: 0 auto;   // centers horizontally
+    display: block !important;
+    margin: 0 auto !important;   // centers horizontally
     text-align: center;
     width: auto;
     height: auto;
   }
   .author__urls-wrapper button {
-    display: none;
+    display: none !important;
+  }
+  .author__urls {
+    display: block !important;
+    position: static !important;
+    border: 0 !important;
+    box-shadow: none !important;
+    background: transparent !important;
+    padding: 0 !important;
+  }
+
+  .author__urls::before,
+  .author__urls::after {
+    display: none !important;
   }
 }
 
