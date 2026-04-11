@@ -174,6 +174,9 @@
     padding: 0 !important;
     margin: 12px auto 0 auto !important;
     list-style: none;
+    border: none !important;
+    box-shadow: none !important;
+    background: transparent !important;
   }
 
   .author__urls::before,
@@ -187,7 +190,7 @@
     display: flex;
     justify-content: center;   // centers icons under the photo
     align-items: center;
-    gap: 32px;                 // increase spacing between icons
+    gap: 40px;                 // increase spacing between icons
     padding: 0;
     width:100%;
     margin: 0 auto;
@@ -203,7 +206,7 @@
     display: inline-flex;
   }
   .author__urls i {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
   }
 }
 
