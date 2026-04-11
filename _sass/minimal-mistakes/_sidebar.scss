@@ -122,9 +122,9 @@
    ========================================================================== */
 
 .author__avatar {
-  display: flex;
-  vertical-align: top;
-  max-width: 100%;
+  display: block;
+  // vertical-align: top;
+  width : auto;
   height: auto;
 
   @include breakpoint($large) {
@@ -149,6 +149,7 @@
   .author__avatar {
     width: 140px;
     height: auto;  
+    align-items : center;
   }
 }
 
