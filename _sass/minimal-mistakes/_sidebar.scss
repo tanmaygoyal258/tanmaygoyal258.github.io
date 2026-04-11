@@ -145,6 +145,10 @@
   }
 }
 
+@media (max-width: 600px) {
+  .author__avatar {width: 140px;}
+}
+
 .author__content {
   display: table-cell;
   vertical-align: top;

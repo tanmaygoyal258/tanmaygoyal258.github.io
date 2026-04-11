@@ -25,6 +25,7 @@ analytics:
 # Site Author
 author:
   avatar           : "/assets/images/tanmay_2025_july.jpeg"
+  # name             : "Tanmay Goyal" 
   linkedin         : "tanmay-goyal-57253a213"
   github           : "tanmaygoyal258" 
   google_scholar   : "citations?user=Jc57ZhcAAAAJ&hl=en"
