@@ -145,64 +145,6 @@
   }
 }
 
-@media (max-width: 600px) {
-  .author__avatar {
-    display: block !important;
-    margin: 0 auto !important;   // centers horizontally
-    text-align: center;
-    width: auto;
-    height: auto;
-  }
-  .author__urls-wrapper button {
-    display: none !important;
-  }
-  // .author__urls {
-  //   display: block !important;
-  //   position: static !important;
-  //   border: 0 !important;
-  //   box-shadow: none !important;
-  //   background: transparent !important;
-  //   padding: 0 !important;
-  // }
-
-  /* Make the <ul> a centered flex row */
-  .author__urls {
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center;
-    gap: 32px;                 /* spacing between icons */
-    padding: 0 !important;
-    margin: 12px auto 0 auto !important;
-    list-style: none;
-    border: 0 !important;
-    box-shadow: none !important;
-    background: transparent !important;
-    margin-top: 0 !important;
-  }
-
-  .author__urls::before,
-  .author__urls::after {
-    display: none !important;
-  }
-  .author__urls-wrapper .label {
-    display: none !important;
-  }
-    
-  
-  .author__urls-wrapper {
-    display: block !important;
-    width: 100%;
-    text-align: center;
-  }
-
-  .author__urls li {
-    display: inline-flex;
-  }
-  .author__urls i {
-    font-size: 1.5rem;
-  }
-}
-
 .author__content {
   display: table-cell;
   vertical-align: top;
@@ -415,4 +357,73 @@
     background: transparent !important;
     padding: 0 !important;
   }
+  .author__avatar {
+    display: block !important;
+    margin: 0 auto !important;   // centers horizontally
+    text-align: center;
+    width: auto;
+    height: auto;
+  }
+  .author__urls-wrapper button {
+    display: none !important;
+  }
+  // .author__urls {
+  //   display: block !important;
+  //   position: static !important;
+  //   border: 0 !important;
+  //   box-shadow: none !important;
+  //   background: transparent !important;
+  //   padding: 0 !important;
+  // }
+
+  /* Make the <ul> a centered flex row */
+  .author__urls {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center;
+    gap: 32px;                 /* spacing between icons */
+    padding: 0 !important;
+    margin: 12px auto 0 auto !important;
+    list-style: none;
+    border: 0 !important;
+    box-shadow: none !important;
+    background: transparent !important;
+    margin-top: 0 !important;
+  }
+
+  .author__urls::before,
+  .author__urls::after {
+    display: none !important;
+  }
+  .author__urls-wrapper .label {
+    display: none !important;
+  }
+    
+  
+  .author__urls-wrapper {
+    display: block !important;
+    width: 100%;
+    text-align: center;
+  }
+
+  .author__urls li {
+    display: inline-flex;
+  }
+  .author__urls i {
+    font-size: 1.5rem;
+  }
+
+  .sidebar > * {
+    margin-bottom: 0 !important;
+  }
+
+  .author__content {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  .author__urls {
+    margin-bottom: 0 !important;
+  }
+
 }
