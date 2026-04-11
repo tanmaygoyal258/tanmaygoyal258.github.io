@@ -169,6 +169,24 @@
   .author__urls::after {
     display: none !important;
   }
+  .author__urls .label {
+    display: none !important;
+  }
+  .author__urls ul {
+    display: flex;
+    justify-content: center;
+    gap: 12px; /* space between icons */
+    padding: 0;
+  }
+
+  .author__urls li {
+    display: inline-flex;
+  }
+
+  .author__urls a {
+    padding: 0;
+    margin: 0;
+  }
 }
 
 .author__content {
