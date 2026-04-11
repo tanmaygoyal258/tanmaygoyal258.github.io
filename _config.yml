@@ -4,7 +4,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tanmay Goyal"
+title                    : #"Tanmay Goyal"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 url                      : "https://tanmaygoyal258.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : "tanmaygoyal258/tanmaygoyal258.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -24,11 +24,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tanmay Goyal"
+  name             : #"Tanmay Goyal"
   avatar           : "/assets/images/tanmay_2025_july.jpeg"
   linkedin         : "tanmay-goyal-57253a213"
   github           : "tanmaygoyal258" 
-  email            : "tanmaygoyal258@gmail.com"
+  email            : #"tanmaygoyal258@gmail.com"
   google_scholar  : "citations?user=Jc57ZhcAAAAJ&hl=en"
 
 
