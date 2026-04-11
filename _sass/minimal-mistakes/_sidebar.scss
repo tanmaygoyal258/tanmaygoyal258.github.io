@@ -176,13 +176,16 @@
     display: flex;
     justify-content: center;   // centers icons under the photo
     align-items: center;
-    gap: 24px;                 // increase spacing between icons
+    gap: 32px;                 // increase spacing between icons
     padding: 0;
+    width:100%;
     margin: 0 auto;
   }
   
   .author__urls-wrapper {
     text-align: center;
+    width : 100%;
+    display: block !important;
   }
 
   .author__urls li {
