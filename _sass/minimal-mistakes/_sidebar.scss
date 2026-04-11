@@ -147,9 +147,14 @@
 
 @media (max-width: 600px) {
   .author__avatar {
-    width: 140px;
-    height: auto;  
-    align-items : center;
+    display: block;
+    margin: 0 auto;   // centers horizontally
+    text-align: center;
+    width: auto;
+    height: auto;
+  }
+  .author__urls-wrapper button {
+    display: none;
   }
 }
 
@@ -247,8 +252,8 @@
 }
 
 .author__urls {
-  display: none;
-  position: absolute;
+  display: block !important;
+  position: static;
   inset-inline-end: 0;
   margin-top: 15px;
   padding: 10px;
