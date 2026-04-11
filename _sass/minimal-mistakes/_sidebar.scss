@@ -156,13 +156,24 @@
   .author__urls-wrapper button {
     display: none !important;
   }
+  // .author__urls {
+  //   display: block !important;
+  //   position: static !important;
+  //   border: 0 !important;
+  //   box-shadow: none !important;
+  //   background: transparent !important;
+  //   padding: 0 !important;
+  // }
+
+  /* Make the <ul> a centered flex row */
   .author__urls {
-    display: block !important;
-    position: static !important;
-    border: 0 !important;
-    box-shadow: none !important;
-    background: transparent !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center;
+    gap: 32px;                 /* spacing between icons */
     padding: 0 !important;
+    margin: 12px auto 0 auto !important;
+    list-style: none;
   }
 
   .author__urls::before,
@@ -183,9 +194,9 @@
   }
   
   .author__urls-wrapper {
-    text-align: center;
-    width : 100%;
     display: block !important;
+    width: 100%;
+    text-align: center;
   }
 
   .author__urls li {
