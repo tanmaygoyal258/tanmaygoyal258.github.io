@@ -9,6 +9,13 @@ permalink: /prev_updates/
 
 ## Updates!
 
+### 2026
+<ul>
+
+<li> <b> Apr '26 </b>: I will be joining Yale University for my PhD in Statistics & Data Science!  </li>
+
+</ul>
+
 ### 2025
 <ul>
 
