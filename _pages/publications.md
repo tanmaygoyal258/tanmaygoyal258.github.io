@@ -6,6 +6,19 @@ comments: false
 share: false
 ---
 
+
+## 2026
+
+<ol>
+
+    <li> <b> Contextual Slate GLM Bandits with Limited Adaptivity </b>
+    <p>
+    <b>Tanmay Goyal</b>, Sukruta Midigeshi, Gaurav Sinha
+    <br> ICML 2026
+    </li>
+
+</ol>
+
 ## 2025
 
 <ol>

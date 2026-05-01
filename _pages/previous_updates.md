@@ -12,6 +12,8 @@ permalink: /prev_updates/
 ### 2026
 <ul>
 
+<li> <b> Apr '26 </b>: Our paper, <b>Contextual Slate GLM Bandits with Limited Adaptivity</b>, has been accepted to <b>ICML 2026</b>.  </li>
+
 <li> <b> Apr '26 </b>: I will be joining Yale University for my PhD in Statistics & Data Science!  </li>
 
 </ul>

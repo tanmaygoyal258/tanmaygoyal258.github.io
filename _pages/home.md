@@ -27,6 +27,8 @@ You can contact me at: [firstname][lastname][258][AT][gmail.com]
 
 <ul>
 
+<li> <b> Apr '26 </b>: Our paper, <b>Contextual Slate GLM Bandits with Limited Adaptivity</b>, has been accepted to <b>ICML 2026</b>.  </li>
+
 <li> <b> Apr '26 </b>: I will be joining Yale University for my PhD in Statistics & Data Science!  </li>
 
 <li> <b> Sep '25 </b>: I will be giving a talk at my alma matter IIT Hyderabad, on the 3rd of September. </li>
