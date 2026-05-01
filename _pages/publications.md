@@ -15,6 +15,7 @@ share: false
     <p>
     <b>Tanmay Goyal</b>, Sukruta Midigeshi, Gaurav Sinha
     <br> ICML 2026
+    </p>
     </li>
 
 </ol>
