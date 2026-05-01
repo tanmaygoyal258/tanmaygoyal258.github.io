@@ -7,7 +7,7 @@ permalink: /prev_updates/
   
 ---
 
-## All Updates!
+## All Updates
 
 ### 2026
 <ul>

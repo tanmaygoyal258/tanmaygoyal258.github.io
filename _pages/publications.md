@@ -15,7 +15,7 @@ share: false
     <li> <b> Contextual Slate GLM Bandits with Limited Adaptivity </b>
     <p>
     <b>Tanmay Goyal</b>, Sukruta Midigeshi, Gaurav Sinha
-    <br> ICML 2026
+    <br> ICML
     </p>
     </li>
 
@@ -28,7 +28,7 @@ share: false
     <li> <b> Efficient Algorithms for Logistic Contextual Slate Bandits with Bandit Feedback </b> 
     <p> 
     <b>Tanmay Goyal</b>, Gaurav Sinha
-    <br> UAI 2025
+    <br> UAI
     <br> <b><a href="https://arxiv.org/abs/2506.13163">arXiv</a> | <a href = "/assets/posters/Slate_Bandits.pdf">Poster</a> </b>
     </p>
     </li>
@@ -36,7 +36,7 @@ share: false
     <li> <b> Achieving Limited Adaptivity for Multinomial Logistic Bandits </b> 
     <p> 
     Sukruta Midigeshi, <b>Tanmay Goyal</b>, Gaurav Sinha
-    <br> RLC 2025
+    <br> RLC
     <br> <b> <a href="https://arxiv.org/abs/2508.03072">arXiv</a> |  <a href = "/assets/slides/MNL_Bandits.pdf">Slides</a>  |  <a href = "/assets/posters/MNL_Bandits.pdf">Poster</a> </b>
     </p>
     </li>
