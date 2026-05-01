@@ -7,12 +7,12 @@ permalink: /prev_updates/
   
 ---
 
-## Updates!
+## All Updates!
 
 ### 2026
 <ul>
 
-<li> <b> Apr '26 </b>: Our paper, <b>Contextual Slate GLM Bandits with Limited Adaptivity</b>, has been accepted at <b>ICML 2026</b>.  </li>
+<li> <b> Apr '26 </b>: Our paper, <b>Contextual Slate GLM Bandits with Limited Adaptivity</b>, has been accepted at <b>ICML</b>.  </li>
 
 <li> <b> Apr '26 </b>: I will be joining Yale University for my PhD in Statistics & Data Science!  </li>
 
@@ -23,9 +23,9 @@ permalink: /prev_updates/
 
 <li> <b> Sep '25 </b>: I will be giving a talk at my alma matter IIT Hyderabad, on the 3rd of September. </li>
 
-<li> <b> May '25 </b>: Our paper, <b>Achieving Limited Adaptivity for Multinomial Logistic Bandits</b>, has been accepted at <b>RLC 2025</b>. </li>
+<li> <b> May '25 </b>: Our paper, <b>Achieving Limited Adaptivity for Multinomial Logistic Bandits</b>, has been accepted at <b>RLC</b>. </li>
 
-<li> <b> Apr '25 </b>: My first paper, <b>Efficient Algorithms for Logistic Slate Contextual Bandits with Bandit Feedback</b>, has been accepted at <b>UAI 2025</b>. A huge shoutout to my mentor and co-author, Dr. Gaurav, for his support and encouragement throughout! </li>
+<li> <b> Apr '25 </b>: My first paper, <b>Efficient Algorithms for Logistic Slate Contextual Bandits with Bandit Feedback</b>, has been accepted at <b>UAI</b>. A huge shoutout to my mentor and co-author, Dr. Gaurav, for his support and encouragement throughout! </li>
 
 </ul>
 
