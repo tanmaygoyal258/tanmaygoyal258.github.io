@@ -1,17 +1,19 @@
 ---
-permalink: /teaching/
+permalink: /teaching_service/
 layout: single
 read_time: false
 comments: false
 share: false
 ---
 
+## Teaching
+
 I have a genuine passion for teaching. I strongly believe that the only way to truly master a concept is to teach the ideas' breadth and depth to another person from scratch.
 
 Fortunately, I have had the opportunity to be a teaching assistant for several undergraduate and postgraduate courses at IIT Hyderabad. 
 
 
-## Teaching Assistant
+### Teaching Assistant at IIT Hyderabad
 
 The duties of a Teaching Assistant included solving the doubts of the students and assisting the professors in carrying out the course smoothly from a grading perspective. For a few courses, I was entrusted with additional responsibilities, such as conducting tutorials, creating assignments, and even delivering lectures. 
 
@@ -47,3 +49,12 @@ I have been a TA for the following courses:
 
 </ul>
 
+## Service
+
+I have served as a reviewer for the following conferences:
+
+<ul>
+
+    <li> <b>UAI</b>: 2026 </li>
+
+</ul>
