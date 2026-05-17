@@ -1,4 +1,5 @@
 baseURL = "https://tanmaygoyal258.github.io/"
+
 locale = "en-US"
 title = "Tanmay Goyal"
 theme = "simple"
@@ -27,17 +28,17 @@ weight = 1
 
 [[menu.main]]
 name = "Interests"
-url = "/interests/"
+url = "interests/"
 weight = 2
 
 [[menu.main]]
 name = "Publications"
-url = "/publications/"
+url = "publications/"
 weight = 3
 
 [[menu.main]]
 name = "Teaching & Service"
-url = "/teaching_service/"
+url = "teaching_service/"
 weight = 4
 
 # Markup
