@@ -9,9 +9,10 @@
 *.sublime-project
 *.sublime-workspace
 
-# Ruby Gem
+# Ruby Gem (old Jekyll setup)
 *.gem
 .bundle
+Gemfile
 Gemfile.lock
 **/vendor/bundle
 
@@ -24,12 +25,21 @@ codekit-config.json
 # macOS
 .DS_Store
 
-# Jekyll generated files
+# Hugo generated files
+/public
+/resources/_gen
+hugo_stats.json
+
+# Old Jekyll files (deprecated)
 .jekyll-cache
 .jekyll-metadata
 .sass-cache
 _asset_bundler_cache
 _site
+_config.yml
+_layouts/
+_includes/
+_sass/
 
 # Readme
 README_hidden.md

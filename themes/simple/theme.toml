@@ -1,0 +1,12 @@
+name = "Simple"
+license = "MIT"
+licenseLink = "https://github.com/yourname/yourname.github.io"
+description = "A simple and clean Hugo theme for personal portfolios"
+homepage = "https://github.com/yourname/yourname.github.io"
+tags = ["personal", "portfolio", "simple", "clean"]
+features = ["responsive"]
+min_version = "0.87.0"
+
+[author]
+name = "Tanmay Goyal"
+homepage = "https://tanmaygoyal258.github.io"

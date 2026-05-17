@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Title }}{{ if ne .Title .Site.Title }} | {{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ .Description | default .Site.Params.description }}">
+    
+    <!-- Google Analytics -->
+    {{ if .Site.Params.googleAnalyticsID }}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleAnalyticsID }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ .Site.Params.googleAnalyticsID }}');
+    </script>
+    {{ end }}
+    
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <nav class="navbar">
+                <div class="nav-brand">
+                    <a href="/">{{ .Site.Title }}</a>
+                </div>
+                <ul class="nav-menu">
+                    {{ range .Site.Menus.main }}
+                    <li><a href="{{ .URL }}" {{ if eq .URL $.RelPermalink }}class="active"{{ end }}>{{ .Name }}</a></li>
+                    {{ end }}
+                </ul>
+            </nav>
+        </header>
+
+        <main class="content">
+            {{ block "main" . }}{{ end }}
+        </main>
+
+        <footer>
+            <div class="footer-content">
+                <div class="author-links">
+                    {{ with .Site.Params.author.github }}
+                    <a href="https://github.com/{{ . }}" target="_blank">GitHub</a>
+                    {{ end }}
+                    {{ with .Site.Params.author.linkedin }}
+                    <a href="https://linkedin.com/in/{{ . }}" target="_blank">LinkedIn</a>
+                    {{ end }}
+                    {{ with .Site.Params.author.googleScholar }}
+                    <a href="https://scholar.google.com/{{ . }}" target="_blank">Google Scholar</a>
+                    {{ end }}
+                    {{ with .Site.Params.author.cv }}
+                    <a href="{{ . }}" target="_blank">CV</a>
+                    {{ end }}
+                </div>
+                <p>&copy; {{ now.Year }} {{ .Site.Params.author.name }}. All rights reserved.</p>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

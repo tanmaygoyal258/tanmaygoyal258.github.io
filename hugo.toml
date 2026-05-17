@@ -1,0 +1,50 @@
+baseURL = "https://tanmaygoyal258.github.io/"
+locale = "en-US"
+title = "Tanmay Goyal"
+theme = "simple"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[params]
+description = "Personal webpage and research portfolio"
+googleAnalyticsID = "G-YFR9H3LV7Z"
+
+[params.author]
+name = "Tanmay Goyal"
+avatar = "/images/tanmay_2025_july.jpeg"
+bio = "PhD Student in Statistics & Data Science at Yale University"
+linkedin = "tanmay-goyal-57253a213"
+github = "tanmaygoyal258"
+googleScholar = "citations?user=Jc57ZhcAAAAJ&hl=en"
+cv = "/cv/November_CV.pdf"
+
+# Site Navigation
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Interests"
+url = "/interests/"
+weight = 2
+
+[[menu.main]]
+name = "Publications"
+url = "/publications/"
+weight = 3
+
+[[menu.main]]
+name = "Teaching & Service"
+url = "/teaching_service/"
+weight = 4
+
+[[menu.main]]
+name = "Updates"
+url = "/prev_updates/"
+weight = 5
+
+# Markup
+[markup.goldmark.renderer]
+unsafe = true
