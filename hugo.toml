@@ -22,24 +22,24 @@ cv = "/cv/November_CV.pdf"
 
 # Site Navigation
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+  name = "Home"
+  url = "/"
+  weight = 1
 
 [[menu.main]]
-name = "Interests"
-url = "interests/"
-weight = 2
+  name = "Interests"
+  url = "/interests/"  # Added leading slash
+  weight = 2
 
 [[menu.main]]
-name = "Publications"
-url = "publications/"
-weight = 3
+  name = "Publications"
+  url = "/publications/"  # Added leading slash
+  weight = 3
 
 [[menu.main]]
-name = "Teaching & Service"
-url = "teaching_service/"
-weight = 4
+  name = "Teaching & Service"
+  url = "/teaching_service/"  # Added leading slash
+  weight = 4
 
 # Markup
 [markup.goldmark.renderer]
