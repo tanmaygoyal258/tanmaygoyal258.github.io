@@ -134,8 +134,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jekyll-include-cache
-  - jekyll-titles-from-headings 
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -143,7 +141,6 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jekyll-include-cache
 
 titles_from_headings:
   enabled:     false
