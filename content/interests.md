@@ -1,8 +1,6 @@
 ---
 title: Interests
 url: /interests/
-type: page
-layout: single
 ---
 
 ## Interests
