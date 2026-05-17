@@ -53,7 +53,5 @@ I have been a TA for the following courses:
 I have served as a reviewer for the following conferences:
 
 <ul>
-
-    <li> <b>UAI</b>: 2026 </li>
-
+<li> <b>UAI</b>: 2026 </li>
 </ul>

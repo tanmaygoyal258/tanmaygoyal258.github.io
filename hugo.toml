@@ -40,11 +40,6 @@ name = "Teaching & Service"
 url = "/teaching_service/"
 weight = 4
 
-[[menu.main]]
-name = "Updates"
-url = "/prev_updates/"
-weight = 5
-
 # Markup
 [markup.goldmark.renderer]
 unsafe = true

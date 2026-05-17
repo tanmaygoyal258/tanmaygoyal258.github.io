@@ -1,5 +1,10 @@
 {{ define "main" }}
 <div class="home">
+    <section class="home-intro">
+        {{ with .Site.Params.author.avatar }}
+        <img src="{{ . }}" alt="Avatar" class="avatar">
+        {{ end }}
+    </section>
     <section class="home-content">
         {{ .Content }}
     </section>

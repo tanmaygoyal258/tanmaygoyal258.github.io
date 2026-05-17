@@ -6,6 +6,9 @@
     <title>{{ .Title }}{{ if ne .Title .Site.Title }} | {{ .Site.Title }}{{ end }}</title>
     <meta name="description" content="{{ .Description | default .Site.Params.description }}">
     
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
     <!-- Google Analytics -->
     {{ if .Site.Params.googleAnalyticsID }}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleAnalyticsID }}"></script>
@@ -35,25 +38,34 @@
         </header>
 
         <main class="content">
-            {{ block "main" . }}{{ end }}
+            <aside class="sidebar">
+                <div class="sidebar-info">
+                    {{ with .Site.Params.author.avatar }}
+                    <img src="{{ . }}" alt="Avatar" class="avatar">
+                    {{ end }}
+                    <div class="sidebar-links">
+                        {{ with .Site.Params.author.github }}
+                        <a href="https://github.com/{{ . }}" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+                        {{ end }}
+                        {{ with .Site.Params.author.linkedin }}
+                        <a href="https://linkedin.com/in/{{ . }}" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                        {{ end }}
+                        {{ with .Site.Params.author.googleScholar }}
+                        <a href="https://scholar.google.com/{{ . }}" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+                        {{ end }}
+                        {{ with .Site.Params.author.cv }}
+                        <a href="{{ . }}" target="_blank"><i class="fas fa-file-pdf"></i> CV</a>
+                        {{ end }}
+                    </div>
+                </div>
+            </aside>
+            <div class="main-content">
+                {{ block "main" . }}{{ end }}
+            </div>
         </main>
 
         <footer>
             <div class="footer-content">
-                <div class="author-links">
-                    {{ with .Site.Params.author.github }}
-                    <a href="https://github.com/{{ . }}" target="_blank">GitHub</a>
-                    {{ end }}
-                    {{ with .Site.Params.author.linkedin }}
-                    <a href="https://linkedin.com/in/{{ . }}" target="_blank">LinkedIn</a>
-                    {{ end }}
-                    {{ with .Site.Params.author.googleScholar }}
-                    <a href="https://scholar.google.com/{{ . }}" target="_blank">Google Scholar</a>
-                    {{ end }}
-                    {{ with .Site.Params.author.cv }}
-                    <a href="{{ . }}" target="_blank">CV</a>
-                    {{ end }}
-                </div>
                 <p>&copy; {{ now.Year }} {{ .Site.Params.author.name }}. All rights reserved.</p>
             </div>
         </footer>

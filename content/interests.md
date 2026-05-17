@@ -7,7 +7,6 @@ layout: single
 
 ## Interests
 
-
 ### Research Interests
 
 I usually like to work at the intersection of theory and application, with an emphasis on the former. I am interested in the following areas:

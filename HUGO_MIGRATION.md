@@ -1,4 +1,4 @@
-# Jekyll to Hugo Migration Complete ✅
+<!-- # Jekyll to Hugo Migration Complete ✅
 
 ## What Changed
 
@@ -78,6 +78,12 @@ Simply push to the `main` branch - GitHub Actions automatically:
 ✅ Local development server works
 ✅ GitHub Actions workflow configured
 ✅ All content pages render correctly
+
+ -->
+
+Migrated from Jekyll to Hugo because Jekyll compilation fails on ARM64.
+
+To run locally, the command is `hugo server`.
 
 ## Next Steps
 
