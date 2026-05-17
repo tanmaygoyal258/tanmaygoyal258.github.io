@@ -1,4 +1,11 @@
-baseURL = "https://tanmaygoyal258.github.io/"
+# 1. Ensure the URL includes your repository name and a trailing slash
+baseURL = "https://tanmaygoyal258.github.io/tanmaygoyal258.github.io/"
+
+# 2. Add these two lines to help with link generation
+canonifyURLs = true
+relativeURLs = false
+
+
 locale = "en-US"
 title = "Tanmay Goyal"
 theme = "simple"
