@@ -1,6 +1,6 @@
-This is the personal website of Tanmay Goyal.
+Migrated from Jekyll to Hugo because Jekyll compilation fails on ARM64.
 
-Was made using Minimal Mistakes and Jekyll.
+Use the command `hugo server` to run locally.
 
-Link to the website: https://tanmaygoyal258.github.io
+Link to website: https://tanmaygoyal258.github.io/
 
