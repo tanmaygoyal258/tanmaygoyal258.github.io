@@ -33,6 +33,16 @@ header {
     padding: 20px 0;
 }
 
+.nav-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .nav-brand a {
     font-size: 24px;
     font-weight: bold;
@@ -62,6 +72,7 @@ main {
     min-height: calc(100vh - 200px);
     padding: 40px 0;
     display: flex;
+    align-items: flex-start;
     gap: 40px;
 }
 
@@ -76,11 +87,13 @@ main {
 
 .page-header {
     margin-bottom: 30px;
+    padding: 0;
+    margin-top: 0;
 }
 
 .page-header h1 {
     font-size: 32px;
-    margin-bottom: 10px;
+    margin: 0;
 }
 
 .page-body {
@@ -88,11 +101,26 @@ main {
     line-height: 1.8;
 }
 
+.page-body h2:first-of-type {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 24px;
+    color: #333;
+}
+
 .page-body h2 {
     margin-top: 30px;
     margin-bottom: 15px;
     font-size: 24px;
     color: #333;
+}
+
+.page-body h2::after {
+    content: "";
+    display: block;
+    height: 1px;
+    background: #e0e0e0;
+    margin: 12px 0 18px;
 }
 
 .page-body h3 {
@@ -138,6 +166,13 @@ main {
     display: flex;
     justify-content: flex-start;
     margin-bottom: 30px;
+}
+
+.sidebar-info {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
 }
 
 .avatar {
@@ -221,12 +256,27 @@ footer p {
     .sidebar {
         width: 100%;
         display: flex;
-        gap: 20px;
-        align-items: flex-start;
+        justify-content: center;
     }
 
     .sidebar-info {
-        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .avatar {
+        width: 150px;
+        height: 200px;
+    }
+
+    .sidebar-links {
+        margin-top: 20px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 12px;
+        width: 200px;
     }
 
     .navbar {
