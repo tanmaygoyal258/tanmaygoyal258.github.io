@@ -14,6 +14,11 @@ share: false
     <p>
     <b>Tanmay Goyal</b>, Sukruta Midigeshi, Gaurav Sinha
     <br> <em>ICML 2026</em>
+    <br> 
+    <b> 
+    <a href="https://arxiv.org/abs/2508.03072">arXiv</a> |  
+    <a href = "/assets/posters/Batched_Slate_Bandits.pdf">Poster</a> 
+    </b>
     </p>
     </li>
     
