@@ -12,7 +12,7 @@ Currently, I am a Research Fellow (Pre-Doctoral Researcher) at [Microsoft Resear
 
 Prior to this, I have graduated from the [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in) with a B.Tech in [Artificial Intelligence](https://ai.iith.ac.in).
 
-You can contact me at: [firstname][lastname][258][AT][gmail.com]
+You can contact me at: [firstname].[lastname][AT][yale.edu]
 
 
 ## Recent News
