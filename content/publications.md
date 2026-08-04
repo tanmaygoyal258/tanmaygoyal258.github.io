@@ -17,7 +17,7 @@ layout: single
     <em>ICML 2026</em>
     <br>
     <b>
-    <a href="https://arxiv.org/abs/2606.31449v1">arXiv</a> | 
+    <a href="https://arxiv.org/abs/2606.31449">arXiv</a> | 
     <a href="/posters/Batched_Slate_Bandits.pdf">Poster</a>
     </b>
     </p>
